@@ -1,4 +1,12 @@
-# Code for Introduction to Machine Learning - CW2
+# From-Scratch Neural Network Regressor
+
+**Python (NumPy & PyTorch) | Group Coursework**
+
+This project consists of two main parts:
+1. A **from-scratch neural network library** implemented in NumPy (no autograd)
+2. A **regression model** predicting California housing prices using either the custom library or PyTorch
+
+This was a **group project** for Imperial College London’s COMP70050 course, showcasing both low-level deep learning understanding and practical regression performance.
 
 ## Table of Contents
 - [Run](#run)
